@@ -37,8 +37,8 @@ A deep learning-powered web application that classifies workout exercise poses f
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/crazyscriptright/Exercise_pose_detection.git
+    cd Exercise_pose_detection
     ```
 
 2. **Install dependencies**
