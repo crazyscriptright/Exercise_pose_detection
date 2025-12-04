@@ -4,7 +4,7 @@ A deep learning-powered web application that classifies workout exercise poses f
 
 ---
 
-![Demo](github/image.jpg)
+![Demo](.github/image.jpg)
 
 ## 🚀 Features
 
@@ -57,7 +57,7 @@ A deep learning-powered web application that classifies workout exercise poses f
 
 ## 📷 Example
 
-![Example](github/image.jpg)
+![Example](.github/image.jpg)
 
 ---
 
@@ -70,7 +70,7 @@ A deep learning-powered web application that classifies workout exercise poses f
 ├── label_encoder.pkl
 ├── requirements.txt
 ├── README.md
-├── github/
+├── .github/
 │   └── image.jpg
 └── ...
 ```
